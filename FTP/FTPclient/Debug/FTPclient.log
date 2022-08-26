@@ -1,0 +1,6 @@
+﻿  ftpClient.c
+C:\Users\94013\Desktop\计算机网络课程设计实践内容\FTP\FTPclient\ftpClient.c(49,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\94013\Desktop\计算机网络课程设计实践内容\FTP\FTPclient\ftpClient.c(107,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\94013\Desktop\计算机网络课程设计实践内容\FTP\FTPclient\ftpClient.c(121,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\94013\Desktop\计算机网络课程设计实践内容\FTP\FTPclient\ftpClient.c(154,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FTPclient.vcxproj -> C:\Users\94013\Desktop\计算机网络课程设计实践内容\FTP\Debug\FTPclient.exe
